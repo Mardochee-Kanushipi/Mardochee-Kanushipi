@@ -22,7 +22,7 @@
 ---
 
 ## 🔗 Me retrouver ailleurs
- <div>
+ 
 
                                     <h4 class="font-medium text-gray-900 dark:text-white mb-1">Mes Plateformes Réseaux
                                         sociaux</h4>
@@ -113,7 +113,7 @@
                                         </a>
 
 
-                                    </div>
+                                    
 
 ---
 
