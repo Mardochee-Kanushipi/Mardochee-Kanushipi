@@ -113,6 +113,104 @@
                                         </a>
 
 
+    
+/* =========================
+   🌐 BOUTONS RÉSEAUX SOCIAUX
+   ========================= */
+
+.btn-social {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 25px;
+  height: 25px;
+  color: white;
+  border-radius: 50%;
+  text-decoration: none;
+  transition: transform 0.3s ease, background-color 0.3s ease;
+}
+
+.btn-social:hover {
+  transform: scale(1.1);
+}
+
+/* Réseaux spécifiques */
+
+.btn-x-twitter   { background-color: #000000; }  
+.btn-x-twitter:hover   { background-color: #16181c; }
+
+.btn-instagram   { background-color: #E4405F; }
+.btn-instagram:hover   { background-color: #d12b4c; }
+
+.btn-facebook    { background-color: #1877F2; }
+.btn-facebook:hover    { background-color: #0f5ec9; }
+
+.btn-youtube     { background-color: #FF0000; }
+.btn-youtube:hover     { background-color: #cc0000; }
+ 
+.btn-github      { background-color: #181717; }
+.btn-github:hover      { background-color: #2c2c2c; }
+
+.btn-linkedin    { background-color: #0077B5; }
+.btn-linkedin:hover    { background-color: #005c8c; }
+
+.btn-whatsapp    { background-color: #25D366; }
+.btn-whatsapp:hover    { background-color: #1ebe5d; }
+
+.btn-telegram    { background-color: #0088cc; }
+.btn-telegram:hover    { background-color: #007ab8; }
+
+.btn-snapchat    { background-color: #FFFC00; color: black; }
+.btn-snapchat:hover    { background-color: #e5e200; }
+
+.btn-tiktok      { background-color: #010101; }
+.btn-tiktok:hover      { background-color: #1a1a1a; }
+
+.btn-pinterest  { background-color: #E60023; }
+.btn-pinterest:hover  { background-color: #b8001c; }
+
+
+.btn-threads {
+  background-color: #000000; 
+  color: #ffffff;
+}
+
+.btn-threads:hover {
+  background-color: #1a1a1a;
+}
+
+
+.btn-linktree {
+  background-color: #00ff11; 
+  border-radius: 50%;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 25px;
+  height: 25px;
+
+}
+
+.btn-linktree img {
+  width: 20px;
+  height: 20px;
+  filter: brightness(0) invert(1); 
+}
+
+.contact-link {
+  color: inherit;
+  transition: color 0.3s ease, transform 0.2s ease;
+}
+
+.contact-link:hover {
+  color: #1d4ed8; /* bleu doux */
+  transform: scale(1.05);
+}
+
+.contact-link:active {
+  transform: scale(0.95);
+}
+
                                     
 
 ---
