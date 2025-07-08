@@ -1,58 +1,34 @@
-<h1 align="center">Salut 👋, je suis Mardochée Kanushipi</h1>
-<h3 align="center">Développeur & Designer passionné par l’IA, le Web et la cybersécurité</h3>
-
----
-
-### 👨🏽‍💻 À propos de moi
-
-- 🔭 Je travaille sur plusieurs projets liés au développement web, à l’IA et à la sécurité informatique.  
-- 🎨 J’aime allier design & code pour créer des expériences numériques élégantes.  
-- 🎓 Étudiant en informatique passionné par l’innovation et l’open source.  
-- 📫 Contactez-moi : **kanushipimardochee@gmail.com**
-
----
-
-### ⚙️ Technologies & outils
-
-![HTML](https://img.shields.io/badge/-HTML5-orange?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS3-blue?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=javascript)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c)
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git)
-![Figma](https://img.shields.io/badge/-Figma-0AC97F?style=for-the-badge&logo=figma)
-
----
-
-### 📂 Quelques projets à explorer
-
-- 🔐 [SecureLogin](#) — Authentification sécurisée en HTML/CSS/JS
-- 🧠 [AI Essay Generator](#) — Générateur de texte intelligent en Python
-- 🎨 [DesignHub](#) — Modèles UI pour portefeuilles web
-
-> (Tu pourras mettre les vrais liens quand tes projets sont prêts ou publics.)
-
----
-
-### 📊 Stats GitHub
+<h1 align="center">Salut, moi c’est Mardochée 👋</h1>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mardochee-Kanushipi&show_icons=true&theme=radical" alt="GitHub stats" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mardochee-Kanushipi&layout=compact&theme=radical" alt="Top Langs" />
+🎓 Étudiant en informatique à l’<strong>UPC</strong> <br>
+💻 Développeur & designer passionné par la <strong>cybersécurité</strong>, <strong>l’IA</strong> et le <strong>développement web</strong><br>
+🚀 Je crois en l’avenir numérique, et j’écris chaque ligne de code comme une promesse vers l’innovation.
 </p>
 
 ---
 
-### 🌐 Retrouve-moi aussi sur :
-
-- [YouTube](https://youtube.com/@mardochee_kanushipi)
-- [X (Twitter)](https://x.com/mardochee_X)
-- [LinkedIn](https://linkedin.com/in/mardochee-kanushipi)
-- [Instagram](https://instagram.com/mardochee_kanushipi)
-- [Telegram](https://t.me/mardochee_kanushipi)
-- [WhatsApp](https://wa.me/243893630482)
+## 🧰 Mes outils préférés
+<img src="https://skillicons.dev/icons?i=python,c,html,css,js,figma,git,vscode,linux" alt="Outils de Mardochée" />
 
 ---
 
-✨ *Merci d’avoir visité mon profil GitHub. N’hésite pas à me suivre ou à collaborer !*
+## 📈 GitHub Stats
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Mardochee-Kanushipi&show_icons=true&theme=tokyonight" height="150"/> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mardochee-Kanushipi&layout=compact&theme=tokyonight" height="150"/>
+</p>
+
+---
+
+## 🔗 Me retrouver ailleurs
+ 
+- 🌍 LinkedIn : [Mardochée Kanushipi](https://www.linkedin.com/in/mardochee-kanushipi)
+- 📧 Mail : mardocheekanushipi@gmail.com
+- 🎥 TikTok : [@mardochee_kanushipi](https://www.tiktok.com/@mardochee_kanushipi)
+- 📡 YouTube : [Canal UCjnHJnIsmuqSaJqztCzBStw](https://www.youtube.com/channel/UCjnHJnIsmuqSaJqztCzBStw)
+
+
+<p align="center">
+  <em>Code avec passion. Apprends avec rigueur. Partage avec intention. 💡</em>
+</p>
