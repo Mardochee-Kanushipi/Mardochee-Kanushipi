@@ -29,6 +29,4 @@
 - 📡 YouTube : [Canal UCjnHJnIsmuqSaJqztCzBStw](https://www.youtube.com/channel/UCjnHJnIsmuqSaJqztCzBStw)
 
 
-<p align="center">
-  <em>Code avec passion. Apprends avec rigueur. Partage avec intention. 💡</em>
-</p>
+✨ *Merci d’avoir visité mon profil GitHub. N’hésite pas à me suivre ou à collaborer !*
