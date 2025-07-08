@@ -21,12 +21,15 @@
 
 ---
 
-## 🔗 Me retrouver ailleurs
- 
-- 🌍 LinkedIn : [Mardochée Kanushipi](https://www.linkedin.com/in/mardochee-kanushipi)
-- 📧 Mail : mardocheekanushipi@gmail.com
-- 🎥 TikTok : [@mardochee_kanushipi](https://www.tiktok.com/@mardochee_kanushipi)
-- 📡 YouTube : [Canal UCjnHJnIsmuqSaJqztCzBStw](https://www.youtube.com/channel/UCjnHJnIsmuqSaJqztCzBStw)
+### 🌐 Retrouve-moi aussi sur :
+
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@mardochee_kanushipi)
+[![X](https://img.shields.io/badge/X-%2318171A.svg?&style=for-the-badge&logo=x&logoColor=white)](https://x.com/mardochee_X)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mardochee-kanushipi)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mardochee_kanushipi)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/mardochee_kanushipi)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-%25E5FF00.svg?&style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/243893630482)
+
 
 
    ✨ *Merci d’avoir visité mon profil GitHub. N’hésite pas à me suivre ou à collaborer !*
