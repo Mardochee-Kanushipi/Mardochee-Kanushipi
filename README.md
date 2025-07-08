@@ -13,11 +13,35 @@
 
 ---
 
-## 📈 GitHub Stats
+### 📊 Mes statistiques GitHub
+
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Mardochee-Kanushipi&show_icons=true&theme=tokyonight" height="150"/> 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mardochee-Kanushipi&layout=compact&theme=tokyonight" height="150"/>
+  <!-- Stats classiques -->
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Mardochee-Kanushipi&show_icons=true&theme=radical&hide_border=true" />
+
+  <!-- Langages les plus utilisés -->
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mardochee-Kanushipi&layout=compact&theme=radical&hide_border=true" />
 </p>
+
+---
+
+### 🔥 Activité continue (GitHub Streak Stats)
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mardochee-Kanushipi&theme=radical&hide_border=true" />
+</p>
+
+---
+
+### 🏆 Mes trophées GitHub
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Mardochee-Kanushipi&theme=darkhub&margin-w=15&no-frame=true&no-bg=true" />
+</p>
+
+---
+
+
 
 ---
 
