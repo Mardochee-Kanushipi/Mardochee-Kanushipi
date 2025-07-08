@@ -28,7 +28,14 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mardochee-kanushipi)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mardochee_kanushipi)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/mardochee_kanushipi)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-%25E5FF00.svg?&style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/243893630482)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/243893630482)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/mardochee.kanushipi)
+[![TikTok](https://img.shields.io/badge/TikTok-010101.svg?&style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@mardochee_kanushipi)
+[![Pinterest](https://img.shields.io/badge/Pinterest-BD081C.svg?&style=for-the-badge&logo=pinterest&logoColor=white)](https://pinterest.com/#)
+[![Threads](https://img.shields.io/badge/Threads-000000.svg?&style=for-the-badge&logo=threads&logoColor=white)](https://www.threads.net/@#)
+[![Snapchat](https://img.shields.io/badge/Snapchat-FFFC00.svg?&style=for-the-badge&logo=snapchat&logoColor=black)](https://www.snapchat.com/add/#)
+[![Linktree](https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/mardochee_kanushipi)
+
 
 
 
