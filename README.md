@@ -47,7 +47,7 @@
     <img src="https://img.icons8.com/color/48/linkedin.png" width="40" alt="LinkedIn"/>
   </a>
   <a href="https://x.com/mardochee_X">
-    <img src="https://img.icons8.com/color/48/x--v1.png" width="40" alt="X (Twitter)"/>
+    <img src="https://www.bing.com/images/search?view=detailV2&ccid=CC6KXPyI&id=F1D89B14D7AF55D9985E34C13D86BD3D4CF157F1&thid=OIP.CC6KXPyInJAeCE4l2Hm19gHaD4&mediaurl=https%3a%2f%2fhelp.x.com%2fcontent%2fdam%2fhelp-twitter%2fx%2fx_sharing_card.png.twimg.768.png&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.082e8a5cfc889c901e084e25d879b5f6%3frik%3d8VfxTD29hj3BNA%26pid%3dImgRaw%26r%3d0&exph=403&expw=768&q=x&simid=608033290020287796&FORM=IRPRST&ck=E6B0BAC9D3E740ED9B83DDB17BAAE476&selectedIndex=5&itb=0" width="40" alt="X"/>
   </a>
   <a href="https://facebook.com/mardochee.kanushipi">
     <img src="https://img.icons8.com/color/48/facebook-new.png" width="40" alt="Facebook"/>
