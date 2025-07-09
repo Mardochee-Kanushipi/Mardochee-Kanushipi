@@ -41,18 +41,47 @@
 </p>
 
 ---
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@mardochee_kanushipi)
-[![X](https://img.shields.io/badge/X-%2318171A.svg?&style=for-the-badge&logo=x&logoColor=white)](https://x.com/mardochee_X)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mardoch%C3%A9e-kanushipi-54a9b6235)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mardochee_kanushipi)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/1BnUmcyxck/)
-[![Threads](https://img.shields.io/badge/Threads-000000.svg?&style=for-the-badge&logo=threads&logoColor=white)](https://www.threads.net/@mardochee_kanushipi)
-[![TikTok](https://img.shields.io/badge/TikTok-010101.svg?&style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@mardochee_kanushipi)
-[![Snapchat](https://img.shields.io/badge/Snapchat-FFFC00.svg?&style=for-the-badge&logo=snapchat&logoColor=black)](https://www.snapchat.com/add/snap_mardochee?share_id=92DAK7uCn6U&locale=fr-FR)
-[![Pinterest](https://img.shields.io/badge/Pinterest-BD081C.svg?&style=for-the-badge&logo=pinterest&logoColor=white)](https://pin.it/5AXX1zpcg)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/mardochee_kanushipi)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/243893630482)
-[![Linktree](https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/mardocheekanushipi)
+
+
+<p align="center"> 
+  <a href="https://linkedin.com/in/mardochee-kanushipi">
+    <img src="https://img.icons8.com/color/48/linkedin.png" width="40px" alt="LinkedIn"/>
+  </a>
+  <a href="https://x.com/mardochee_X">
+    <img src="https://img.icons8.com/ios-filled/50/1DA1F2/twitterx--v1.png" width="40px" alt="X (Twitter)"/>
+  </a>
+  <a href="https://facebook.com">
+    <img src="https://img.icons8.com/color/48/facebook-new.png" width="40px" alt="Facebook"/>
+  </a>
+  <a href="https://instagram.com/mardochee_kanushipi">
+    <img src="https://img.icons8.com/fluency/48/instagram-new.png" width="40px" alt="Instagram"/>
+  </a>
+  <a href="https://www.threads.net/@mardochee_kanushipi">
+    <img src="https://img.icons8.com/ios-filled/50/000000/threads.png" width="40px" alt="Threads"/>
+  </a>
+  <a href="https://youtube.com/@mardochee_kanushipi">
+    <img src="https://img.icons8.com/color/48/youtube-play.png" width="40px" alt="YouTube"/>
+  </a>
+  <a href="https://tiktok.com/@mardochee_kanushipi">
+    <img src="https://img.icons8.com/color/48/tiktok--v1.png" width="40px" alt="TikTok"/>
+  </a>
+  <a href="https://pin.it/5AXX1zpcg">
+    <img src="https://img.icons8.com/color/48/pinterest--v1.png" width="40px" alt="Pinterest"/>
+  </a>
+  <a href="https://t.me/mardochee_kanushipi">
+    <img src="https://img.icons8.com/color/48/telegram-app--v1.png" width="40px" alt="Telegram"/>
+  </a>
+  <a href="https://wa.me/243893630482">
+    <img src="https://img.icons8.com/color/48/whatsapp--v1.png" width="40px" alt="WhatsApp"/>
+  </a>
+  <a href="https://www.snapchat.com/add/snap_mardochee">
+    <img src="https://img.icons8.com/color/48/snapchat--v1.png" width="40px" alt="Snapchat"/>
+  </a>
+  <a href="https://linktr.ee/mardocheekanushipi">
+    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-linktree-a-link-in-bio-tool-that-connects-all-of-your-content-logo-color-tal-revivo.png" width="40px" alt="Linktree"/>
+  </a>
+</p>
+
 
 
 
