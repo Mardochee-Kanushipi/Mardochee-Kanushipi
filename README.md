@@ -42,7 +42,6 @@
 
 ---
 
-
 <p align="center"> 
   <a href="https://linkedin.com/in/mardochee-kanushipi">
     <img src="https://img.icons8.com/color/48/linkedin.png" width="40px" alt="LinkedIn"/>
@@ -75,13 +74,12 @@
     <img src="https://img.icons8.com/color/48/whatsapp--v1.png" width="40px" alt="WhatsApp"/>
   </a>
   <a href="https://www.snapchat.com/add/snap_mardochee">
-    <img src="https://img.icons8.com/color/48/snapchat--v1.png" width="40px" alt="Snapchat"/>
+    <img src="https://img.icons8.com/fluency/48/snapchat.png" width="40px" alt="Snapchat"/>
   </a>
   <a href="https://linktr.ee/mardocheekanushipi">
     <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-linktree-a-link-in-bio-tool-that-connects-all-of-your-content-logo-color-tal-revivo.png" width="40px" alt="Linktree"/>
   </a>
 </p>
-
 
 
 
