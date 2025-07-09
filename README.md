@@ -13,6 +13,7 @@
 
 ---
 
+
 ### 📊 Mes statistiques GitHub
 
 <p align="center">
@@ -36,15 +37,11 @@
 ### 🏆 Mes trophées GitHub
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Mardochee-Kanushipi&theme=darkhub&no-frame=true&column=7&margin-w=15&margin-h=15" alt="trophées github de Mardochée Kanushipi"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Mardochee-Kanushipi&theme=darkhub&margin-w=15&no-frame=true&no-bg=true" />
 </p>
 
-
 ---
 
-
-
----
 
 ### 🌐 Retrouve-moi aussi sur :
 
@@ -60,21 +57,6 @@
 [![Pinterest](https://img.shields.io/badge/Pinterest-BD081C.svg?&style=for-the-badge&logo=pinterest&logoColor=white)](https://pin.it/5AXX1zpcg)
 [![Linktree](https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/mardocheekanushipi)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mardoch%C3%A9e-kanushipi-54a9b6235?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
