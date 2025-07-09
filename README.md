@@ -42,6 +42,15 @@
 
 ---
 
+<p align="center">
+  <a href="https://linkedin.com/in/mardochee-kanushipi"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40px" /></a>
+  <a href="https://x.com/mardochee_X"><img src="https://img.icons8.com/ios-filled/50/000000/twitter.png" width="40px" /></a>
+  <a href="https://facebook.com"><img src="https://img.icons8.com/ios-filled/50/000000/facebook-new.png" width="40px" /></a>
+  <a href="https://instagram.com/mardochee_kanushipi"><img src="https://img.icons8.com/ios-glyphs/30/000000/instagram-new.png" width="40px" /></a>
+  <a href="https://youtube.com/@mardochee_kanushipi"><img src="https://img.icons8.com/ios-filled/50/000000/youtube-play.png" width="40px" /></a>
+</p>
+
+
 
 ### 🌐 Retrouve-moi aussi sur :
 
