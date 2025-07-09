@@ -42,47 +42,6 @@
 
 ---
 
-<p align="center">  
-  <a href="https://linkedin.com/in/mardochee-kanushipi">
-    <img src="https://img.icons8.com/color/48/linkedin.png" width="40px" alt="LinkedIn"/>
-  </a>
-  <a href="https://x.com/mardochee_X">
-    <img src="https://img.icons8.com/ios-filled/50/000000/twitterx--v1.png" width="40px" alt="X"/>
-  </a>
-  <a href="https://facebook.com">
-    <img src="https://img.icons8.com/color/48/facebook-new.png" width="40px" alt="Facebook"/>
-  </a>
-  <a href="https://instagram.com/mardochee_kanushipi">
-    <img src="https://img.icons8.com/fluency/48/instagram-new.png" width="40px" alt="Instagram"/>
-  </a>
-  <a href="https://www.threads.net/@mardochee_kanushipi">
-    <img src="https://img.icons8.com/ios-filled/50/000000/threads.png" width="40px" alt="Threads"/>
-  </a>
-  <a href="https://youtube.com/@mardochee_kanushipi">
-    <img src="https://img.icons8.com/color/48/youtube-play.png" width="40px" alt="YouTube"/>
-  </a>
-  <a href="https://tiktok.com/@mardochee_kanushipi">
-    <img src="https://img.icons8.com/color/48/tiktok--v1.png" width="40px" alt="TikTok"/>
-  </a>
-  <a href="https://pin.it/5AXX1zpcg">
-    <img src="https://img.icons8.com/color/48/pinterest--v1.png" width="40px" alt="Pinterest"/>
-  </a>
-  <a href="https://t.me/mardochee_kanushipi">
-    <img src="https://img.icons8.com/color/48/telegram-app--v1.png" width="40px" alt="Telegram"/>
-  </a>
-  <a href="https://wa.me/243893630482">
-    <img src="https://img.icons8.com/color/48/whatsapp--v1.png" width="40px" alt="WhatsApp"/>
-  </a>
-  <a href="https://www.snapchat.com/add/snap_mardochee">
-    <img src="https://img.icons8.com/fluency/48/snapchat-app.png" width="40px" alt="Snapchat"/>
-  </a>
-  <a href="https://linktr.ee/mardocheekanushipi">
-    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-linktree-a-link-in-bio-tool-that-connects-all-of-your-content-logo-color-tal-revivo.png" width="40px" alt="Linktree"/>
-  </a>
-</p>
-
-
-
 ### 🌐 Retrouve-moi aussi sur :
 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@mardochee_kanushipi)
