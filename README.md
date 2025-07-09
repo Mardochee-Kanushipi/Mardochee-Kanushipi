@@ -36,8 +36,9 @@
 ### 🏆 Mes trophées GitHub
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Mardochee-Kanushipi&theme=darkhub&margin-w=15&no-frame=true&no-bg=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Mardochee-Kanushipi&theme=darkhub&no-frame=true&column=7&margin-w=15&margin-h=15" alt="trophées github de Mardochée Kanushipi"/>
 </p>
+
 
 ---
 
