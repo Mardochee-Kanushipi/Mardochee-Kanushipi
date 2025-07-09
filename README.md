@@ -42,37 +42,44 @@
 
 ---
 
-
-<p align="center"> 
+<p align="center">
   <a href="https://linkedin.com/in/mardochee-kanushipi">
-    <img src="https://img.icons8.com/color/48/linkedin.png" width="40px" alt="LinkedIn"/>
+    <img src="https://img.icons8.com/color/48/linkedin.png" width="40" alt="LinkedIn"/>
   </a>
   <a href="https://x.com/mardochee_X">
-    <img src="https://img.icons8.com/ios-filled/50/1DA1F2/twitter.png" width="40px" alt="X (Twitter)"/>
+    <img src="https://img.icons8.com/color/48/x--v1.png" width="40" alt="X (Twitter)"/>
   </a>
-  <a href="https://facebook.com">
-    <img src="https://img.icons8.com/color/48/facebook-new.png" width="40px" alt="Facebook"/>
+  <a href="https://facebook.com/mardochee.kanushipi">
+    <img src="https://img.icons8.com/color/48/facebook-new.png" width="40" alt="Facebook"/>
   </a>
   <a href="https://instagram.com/mardochee_kanushipi">
-    <img src="https://img.icons8.com/fluency/48/instagram-new.png" width="40px" alt="Instagram"/>
+    <img src="https://img.icons8.com/fluency/48/instagram-new.png" width="40" alt="Instagram"/>
   </a>
-  <a href="https://youtube.com/@mardochee_kanushipi">
-    <img src="https://img.icons8.com/color/48/youtube-play.png" width="40px" alt="YouTube"/>
+  <a href="https://www.youtube.com/@mardochee_kanushipi">
+    <img src="https://img.icons8.com/color/48/youtube-play.png" width="40" alt="YouTube"/>
   </a>
-  <a href="https://tiktok.com/@mardochee_kanushipi">
-    <img src="https://img.icons8.com/color/48/tiktok--v1.png" width="40px" alt="TikTok"/>
+  <a href="https://www.tiktok.com/@mardochee_kanushipi">
+    <img src="https://img.icons8.com/color/48/tiktok--v1.png" width="40" alt="TikTok"/>
   </a>
   <a href="https://t.me/mardochee_kanushipi">
-    <img src="https://img.icons8.com/color/48/telegram-app--v1.png" width="40px" alt="Telegram"/>
+    <img src="https://img.icons8.com/color/48/telegram-app--v1.png" width="40" alt="Telegram"/>
   </a>
   <a href="https://wa.me/243893630482">
-    <img src="https://img.icons8.com/color/48/whatsapp--v1.png" width="40px" alt="WhatsApp"/>
+    <img src="https://img.icons8.com/color/48/whatsapp--v1.png" width="40" alt="WhatsApp"/>
   </a>
-  <a href="https://linktr.ee/mardochee_kanushipi">
-    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-linktree-a-link-in-bio-tool-that-connects-all-of-your-content-logo-color-tal-revivo.png" width="40px" alt="Linktree"/>
+  <a href="https://mardochee.dev">
+    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-linktree-a-link-in-bio-tool-that-connects-all-of-your-content-logo-color-tal-revivo.png" width="40" alt="Linktree"/>
+  </a>
+  <a href="https://www.pinterest.com/mardochee_kanushipi">
+    <img src="https://img.icons8.com/color/48/pinterest--v1.png" width="40" alt="Pinterest"/>
+  </a>
+  <a href="https://www.threads.net/@mardochee_kanushipi">
+    <img src="https://img.icons8.com/color/48/threads--v1.png" width="40" alt="Threads"/>
+  </a>
+  <a href="https://www.snapchat.com/add/mardochee_kanushipi">
+    <img src="https://img.icons8.com/color/48/snapchat.png" width="40" alt="Snapchat"/>
   </a>
 </p>
-
 
 
 ### 🌐 Retrouve-moi aussi sur :
