@@ -48,7 +48,7 @@
     <img src="https://img.icons8.com/color/48/linkedin.png" width="40px" alt="LinkedIn"/>
   </a>
   <a href="https://x.com/mardochee_X">
-    <img src="https://img.icons8.com/ios-filled/50/1DA1F2/twitterx--v1.png" width="40px" alt="X (Twitter)"/>
+    <img src="https://img.icons8.com/ios-filled/50/000000/twitterx--v1.png" width="40px" alt="X"/>
   </a>
   <a href="https://facebook.com">
     <img src="https://img.icons8.com/color/48/facebook-new.png" width="40px" alt="Facebook"/>
