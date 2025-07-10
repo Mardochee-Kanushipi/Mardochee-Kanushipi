@@ -27,7 +27,7 @@
 
 ### 🧱 Frameworks & Librairies
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,vue,angular,express,redux,jquery,sass,tailwind,spring,flask,django,threejs,laravel,materialui,bootstrap,vite" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,vue,angular,express,redux,jquery,sass,tailwind,spring,flask,django,threejs,laravel,materialui,bootstrap,vite,nuxtjs,nestjs,astro" />
 </p>
 
 ### 📱 Développement mobile
