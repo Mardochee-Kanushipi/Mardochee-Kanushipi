@@ -8,7 +8,7 @@
 ---
 
 ## 🧰 Mes outils préférés
-<img src="https://skillicons.dev/icons?i=python,c,html,css,js,figma,git,vscode,linux" alt="Outils de Mardochée" />
+<img src="https://skillicons.dev/icons?i=vscode,python,c,html,css,js,figma,git,linux" alt="Outils de Mardochée" />
 
 ---
 
