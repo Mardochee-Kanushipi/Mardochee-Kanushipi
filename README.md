@@ -17,7 +17,11 @@
 ---
 
 ## 🧰 Mes outils préférés
-<img src="https://skillicons.dev/icons?i=vscode,python,c,html,css,js,figma,git,linux,adobe" alt="Outils de Mardochée" />
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,github,gitlab,git,html,css,js,ts,react,nextjs,nodejs,php,java,python,c,cpp,dart,flutter,linux,bash,firebase,mysql,mongodb,postgresql,sqlite,figma,xd,photoshop,illustrator,premierepro,aftereffects,blender,canva,notion,discord,slack,stackoverflow" alt="Outils de Mardochée" />
+</p>
+
 
 ---
 
