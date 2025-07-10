@@ -28,9 +28,14 @@
 
 ### 🔥 Activité continue (GitHub Streak Stats)
 
+### 📊 Stats GitHub
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mardochee-Kanushipi&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mardochee-Kanushipi&show_icons=true&theme=radical" alt="GitHub stats" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mardochee-Kanushipi&layout=compact&theme=radical" alt="Top Langs" />
 </p>
+
 
 ---
 
@@ -42,8 +47,6 @@
 
 ---
 
-
----
 
 ### 🌐 Retrouve-moi aussi sur :
 
