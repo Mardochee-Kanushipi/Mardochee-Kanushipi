@@ -38,8 +38,9 @@
 
 ### 📦 Bases de données & APIs
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,sqlite,firebase,graphql,prisma" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,sqlite,firebase,graphql,prisma,supabase" />
 </p>
+
 
 ### 🧠 Intelligence Artificielle & Data Science
 <p>
