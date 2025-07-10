@@ -2,8 +2,7 @@
 
 <p align="center">
 🎓 Étudiant en informatique à l’<strong>UPC</strong> <br>
-💻 Développeur & designer passionné par la <strong>cybersécurité</strong>, <strong>l’IA</strong> et le <strong>développement web</strong><br>
-🚀 Je crois en l’avenir numérique, et j’écris chaque ligne de code comme une promesse vers l’innovation.
+💻 Développeur & designer passionné par la <strong>cybersécurité</strong>, <strong>l’IA</strong> et le <strong>développement web</strong>
 </p>
 
 ---
