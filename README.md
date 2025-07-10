@@ -50,9 +50,9 @@
 
 ### 🧠 Intelligence Artificielle & Data Science
 <p>
-  <img src="https://skillicons.dev/icons?i=numpy,pytorch,tensorflow,jupyter,rstudio,pandas,scikit-learn,matplotlib,seaborn,opencv,keras,fastai,anaconda,ai,python,scala,selenium,sentry,sequelize,sketchup,solidity,solidjs,spring,sqlite,stack-overflow,styled-components,sublime-text,supabase,swift,symfony,tailwindcss,tauri,typescript,react,vue,angular,django,docker,flask,keras,opencv,graphql,go,java,javascript,c,cplusplus,css,html,r,php,linux,git,mysql,postgresql,kubernetes,aws,azure,gcp,redis,ros,ros,opencv,flutter"
-/>
+  <img src="https://skillicons.dev/icons?i=numpy,pytorch,tensorflow,jupyter,rstudio,pandas,scikit-learn,matplotlib,seaborn,opencv,keras,fastai" />
 </p>
+
 
 
 ---
