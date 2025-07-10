@@ -22,6 +22,8 @@
 
 
   <!-- Langages les plus utilisés -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mardochee-Kanushipi&layout=compact&theme=radical" />
+
 
 
 
