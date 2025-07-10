@@ -12,7 +12,7 @@
 - 🔭 Je travaille sur plusieurs projets liés au développement web, à l’IA et à la sécurité informatique.  
 - 🎨 J’aime allier design & code pour créer des expériences numériques élégantes.  
 - 🎓 Étudiant en informatique passionné par l’innovation et l’open source.  
-- 📫 Contactez-moi : **imardocheekanuship@gmail.com**
+- 📫 Contactez-moi : **mardocheekanushipi@gmail.com**
 
 ---
 
