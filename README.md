@@ -18,10 +18,10 @@
 
 ## 🚀 Mes compagnons de création
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,github,gitlab,git,html,css,js,ts,react,nextjs,nodejs,php,java,python,c,cpp,dart,flutter,linux,bash,firebase,mysql,mongodb,postgresql,sqlite,figma,xd,photoshop,illustrator,premierepro,aftereffects,blender,canva,notion,discord,slack,stackoverflow" alt="Mes copilotes numériques" />
-</p>
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=android,angular,apache,arduino,aws,azure,bash,blender,bootstrap,c,canva,cloudflare,cpp,css,dart,django,docker,express,figma,firebase,flask,flutter,git,github,gitlab,graphql,html,illustrator,java,js,jsx,jquery,jupyter,kubernetes,laravel,linux,linkedin,materialui,mongodb,mysql,nginx,nextjs,nodejs,notion,numpy,photoshop,php,postman,postgresql,powershell,prisma,py,pycharm,pytorch,react,redux,replit,rstudio,ruby,rust,sass,spring,sqlite,stackoverflow,tailwind,threejs,tensorflow,typescript,ubuntu,unity,vercel,vite,vscode,vue,xd,yarn" alt="Mes copilotes numériques" />
+</p>
 
 
 ---
