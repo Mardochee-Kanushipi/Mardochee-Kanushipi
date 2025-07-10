@@ -7,6 +7,15 @@
 
 ---
 
+### 👨🏽‍💻 À propos de moi
+
+- 🔭 Je travaille sur plusieurs projets liés au développement web, à l’IA et à la sécurité informatique.  
+- 🎨 J’aime allier design & code pour créer des expériences numériques élégantes.  
+- 🎓 Étudiant en informatique passionné par l’innovation et l’open source.  
+- 📫 Contactez-moi : **kanushipimardochee@gmail.com**
+
+---
+
 ## 🧰 Mes outils préférés
 <img src="https://skillicons.dev/icons?i=vscode,python,c,html,css,js,figma,git,linux" alt="Outils de Mardochée" />
 
