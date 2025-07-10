@@ -30,7 +30,8 @@
 
 ### 🔥 Activité continue (GitHub Streak Stats)
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mardochee-Kanushipi&theme=radical" />
+<img src="https://github-profile-trophy.vercel.app/?username=Mardochee-Kanushipi&theme=darkhub" />
+
 
 
 ---
