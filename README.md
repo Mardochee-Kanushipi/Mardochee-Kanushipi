@@ -21,8 +21,9 @@
 
 ### 💻 Langages de programmation
 <p>
-  <img src="https://skillicons.dev/icons?i=py,js,ts,html,css,c,cpp,java,php,dart,ruby,rust" />
+  <img src="https://skillicons.dev/icons?i=py,js,ts,html,css,c,cpp,java,php,dart,ruby,rust,go,swift,kotlin,scala,r,lua,haskell,perl" />
 </p>
+
 
 ### 🧱 Frameworks & Librairies
 <p>
