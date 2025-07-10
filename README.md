@@ -19,8 +19,54 @@
 ## 🚀 Mes compagnons de création
 
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=android,angular,apache,arduino,aws,azure,bash,blender,bootstrap,c,canva,cloudflare,cpp,css,dart,django,docker,express,figma,firebase,flask,flutter,git,github,gitlab,graphql,html,illustrator,java,js,jsx,jquery,jupyter,kubernetes,laravel,linux,linkedin,materialui,mongodb,mysql,nginx,nextjs,nodejs,notion,numpy,photoshop,php,postman,postgresql,powershell,prisma,py,pycharm,pytorch,react,redux,replit,rstudio,ruby,rust,sass,spring,sqlite,stackoverflow,tailwind,threejs,tensorflow,typescript,ubuntu,unity,vercel,vite,vscode,vue,xd,yarn" alt="Mes copilotes numériques" />
+### 💻 Langages de programmation
+<p>
+  <img src="https://skillicons.dev/icons?i=py,js,ts,html,css,c,cpp,java,php,dart,ruby,rust" />
+</p>
+
+### 🧱 Frameworks & Librairies
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,vue,angular,express,redux,jquery,sass,tailwind,spring,flask,django,threejs,laravel,materialui,bootstrap,vite" />
+</p>
+
+### 📱 Développement mobile
+<p>
+  <img src="https://skillicons.dev/icons?i=flutter,dart,android,unity" />
+</p>
+
+### 📦 Bases de données & APIs
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,sqlite,firebase,graphql,prisma" />
+</p>
+
+### 🧠 Intelligence Artificielle & Data Science
+<p>
+  <img src="https://skillicons.dev/icons?i=numpy,pytorch,tensorflow,jupyter,rstudio" />
+</p>
+
+### 🔐 Cybersécurité & CLI
+<p>
+  <img src="https://skillicons.dev/icons?i=bash,powershell,linux,ubuntu" />
+</p>
+
+### ☁️ DevOps & Cloud
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,vercel,aws,azure,nginx,cloudflare" />
+</p>
+
+### 🎨 Design & Création visuelle
+<p>
+  <img src="https://skillicons.dev/icons?i=figma,xd,photoshop,illustrator,aftereffects,blender,canva" />
+</p>
+
+### 🧰 Éditeurs & Outils de Dev
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,pycharm,postman,replit,notion" />
+</p>
+
+### 🌐 Plateformes & Communauté
+<p>
+  <img src="https://skillicons.dev/icons?i=github,gitlab,git,stackoverflow,linkedin" />
 </p>
 
 
