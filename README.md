@@ -21,7 +21,7 @@
 
 ### 💻 Langages de programmation
 <p>
-  <img src="https://skillicons.dev/icons?i=py,js,ts,html,css,c,cpp,java,php,dart,ruby,rust,go,swift,kotlin,scala,r,lua,haskell,perl" />
+  <img src="https://skillicons.dev/icons?i=py,c,html,css,js,php,ts,cpp,java,dart,ruby,rust,go,swift,kotlin,scala,r,lua,haskell,perl" />
 </p>
 
 ---
@@ -36,7 +36,7 @@
 
 ### 📱 Développement mobile
 <p>
-  <img src="https://skillicons.dev/icons?i=flutter,dart,unity,kotlin,swift" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,unity" />
 </p>
 
 ---
