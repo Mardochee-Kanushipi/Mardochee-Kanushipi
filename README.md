@@ -50,7 +50,7 @@
 
 ### 🧠 Intelligence Artificielle & Data Science
 <p>
-  <img src="https://skillicons.dev/icons?i=numpy,pytorch,tensorflow,jupyter,rstudio,pandas,scikit-learn,matplotlib,seaborn,opencv,keras,fastai" />
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,fastai" />
 </p>
 
 
