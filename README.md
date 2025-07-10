@@ -24,54 +24,69 @@
   <img src="https://skillicons.dev/icons?i=py,js,ts,html,css,c,cpp,java,php,dart,ruby,rust,go,swift,kotlin,scala,r,lua,haskell,perl" />
 </p>
 
+---
+
 
 ### 🧱 Frameworks & Librairies
 <p>
   <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,vue,angular,express,redux,jquery,sass,tailwind,spring,flask,django,threejs,laravel,materialui,bootstrap,vite,nuxtjs,nestjs,astro" />
 </p>
 
+---
+
 ### 📱 Développement mobile
 <p>
   <img src="https://skillicons.dev/icons?i=flutter,dart,unity,kotlin,swift" />
 </p>
 
+---
 
 ### 📦 Bases de données & APIs
 <p>
   <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,sqlite,firebase,graphql,prisma,supabase" />
 </p>
 
+---
 
 ### 🧠 Intelligence Artificielle & Data Science
 <p>
   <img src="https://skillicons.dev/icons?i=numpy,pytorch,tensorflow,jupyter,rstudio" />
 </p>
 
+---
+
 ### 🔐 Cybersécurité & CLI
 <p>
   <img src="https://skillicons.dev/icons?i=bash,powershell,linux,ubuntu" />
 </p>
+
+---
 
 ### ☁️ DevOps & Cloud
 <p>
   <img src="https://skillicons.dev/icons?i=docker,kubernetes,vercel,aws,azure,nginx,cloudflare" />
 </p>
 
+---
+
 ### 🎨 Design & Création visuelle
 <p>
   <img src="https://skillicons.dev/icons?i=figma,xd,photoshop,illustrator,aftereffects,blender,canva" />
 </p>
+
+---
 
 ### 🧰 Éditeurs & Outils de Dev
 <p>
   <img src="https://skillicons.dev/icons?i=vscode,visualstudio,pycharm,postman,replit,notion" />
 </p>
 
+---
+
 ### 🌐 Plateformes & Communauté
 <p>
   <img src="https://skillicons.dev/icons?i=github,gitlab,git,stackoverflow,linkedin" />
 </p>
-
 
 ---
 
