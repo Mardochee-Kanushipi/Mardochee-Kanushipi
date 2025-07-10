@@ -16,7 +16,7 @@
 
 ---
 
-## 🧰 Mes outils préférés
+## 🚀 Mes compagnons de création
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=vscode,visualstudio,github,gitlab,git,html,css,js,ts,react,nextjs,nodejs,php,java,python,c,cpp,dart,flutter,linux,bash,firebase,mysql,mongodb,postgresql,sqlite,figma,xd,photoshop,illustrator,premierepro,aftereffects,blender,canva,notion,discord,slack,stackoverflow" alt="Outils de Mardochée" />
