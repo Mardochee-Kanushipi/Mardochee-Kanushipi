@@ -33,8 +33,6 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mardochee-Kanushipi&theme=radical" />
 
 
-
-
 ---
 
 ### 🏆 Mes trophées GitHub
