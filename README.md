@@ -59,7 +59,7 @@
 
 ### 🔐 Cybersécurité & CLI
 <p>
-  <img src="https://skillicons.dev/icons?i=bash,powershell,linux,ubuntu" />
+  <img src="https://skillicons.dev/icons?i=bash,powershell,linux,ubuntu,ansible,tryhackme,cloudflare,docker,kubernetes,zellij,htop,openssl,wireshark,metasploit,nmap,hashicorp,terraform,vault,selinux" />
 </p>
 
 ---
