@@ -18,10 +18,11 @@
 
 <p align="center">
   <!-- Stats classiques -->
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Mardochee-Kanushipi&show_icons=true&theme=radical&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=Mardochee-Kanushipi&show_icons=true&theme=radical" alt="GitHub stats" />
+
 
   <!-- Langages les plus utilisés -->
-<img src="https://github-readme-stats.vercel.app/api?username=Mardochee-Kanushipi&show_icons=true&theme=radical" alt="GitHub stats" />
+
 
 
 ---
