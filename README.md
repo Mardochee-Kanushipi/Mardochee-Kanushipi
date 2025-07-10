@@ -1,7 +1,7 @@
 <h1 align="center">Salut, moi c’est Mardochée 👋</h1>
 
 <p align="center">
-🎓 Étudiant en informatique à l’<strong>UPC</strong> <br>
+🎓 Étudiant en informatique à l’UPC <br>
 💻 Développeur & designer passionné par la <strong>cybersécurité</strong>, <strong>l’IA</strong> et le <strong>développement web</strong>
 </p>
 
