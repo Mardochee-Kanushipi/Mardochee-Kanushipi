@@ -12,27 +12,25 @@
 
 ---
 
----
 
 ### 📊 Mes statistiques GitHub
 
 <p align="center">
   <!-- Stats classiques -->
-<img src="https://github-readme-stats.vercel.app/api?username=Mardochee-Kanushipi&show_icons=true&theme=radical" alt="GitHub stats" />
-
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Mardochee-Kanushipi&show_icons=true&theme=radical&hide_border=true" />
 
   <!-- Langages les plus utilisés -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mardochee-Kanushipi&layout=compact&theme=radical" />
-
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mardochee-Kanushipi&layout=compact&theme=radical&hide_border=true" />
+</p>
 
 
 ---
 
 ### 🔥 Activité continue (GitHub Streak Stats)
 
-<img src="https://github-profile-trophy.vercel.app/?username=Mardochee-Kanushipi&theme=darkhub" />
-
-
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mardochee-Kanushipi&theme=radical&hide_border=true" />
+</p>
 
 ---
 
