@@ -94,6 +94,27 @@
   <img src="https://skillicons.dev/icons?i=github,gitlab,bitbucket,git,stackoverflow,linkedin,devto,discord,instagram" />
 </p>
 
+<p align="center">
+  <a href="https://github.com/Mardochee-Kanushipi" target="_blank"><img src="https://skillicons.dev/icons?i=github" /></a>
+  <a href="https://gitlab.com/" target="_blank"><img src="https://skillicons.dev/icons?i=gitlab" /></a>
+  <a href="https://stackoverflow.com/users/your-id" target="_blank"><img src="https://skillicons.dev/icons?i=stackoverflow" /></a>
+  <a href="https://linkedin.com/in/mardochee-kanushipi" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="https://x.com/mardochee_X" target="_blank"><img src="https://skillicons.dev/icons?i=x" /></a>
+  <a href="https://dev.to/mardochee" target="_blank"><img src="https://skillicons.dev/icons?i=devto" /></a>
+  <a href="https://medium.com/@mardochee" target="_blank"><img src="https://skillicons.dev/icons?i=medium" /></a>
+  <a href="https://www.facebook.com/share/1DotfQD1fp/" target="_blank"><img src="https://skillicons.dev/icons?i=facebook" /></a>
+  <a href="https://instagram.com/mardochee_kanushipi" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" /></a>
+  <a href="https://youtube.com/@mardochee_kanushipi" target="_blank"><img src="https://skillicons.dev/icons?i=youtube" /></a>
+  <a href="https://tiktok.com/@mardochee_kanushipi" target="_blank"><img src="https://skillicons.dev/icons?i=tiktok" /></a>
+  <a href="https://t.me/mardochee_kanushipi" target="_blank"><img src="https://skillicons.dev/icons?i=telegram" /></a>
+  <a href="https://wa.me/243893630482" target="_blank"><img src="https://skillicons.dev/icons?i=whatsapp" /></a>
+  <a href="https://www.threads.net/@mardochee_kanushipi" target="_blank"><img src="https://skillicons.dev/icons?i=threads" /></a>
+  <a href="https://pin.it/5AXX1zpcg" target="_blank"><img src="https://skillicons.dev/icons?i=pinterest" /></a>
+  <a href="https://www.snapchat.com/add/snap_mardochee" target="_blank"><img src="https://skillicons.dev/icons?i=snapchat" /></a>
+  <a href="https://linktr.ee/mardocheekanushipi" target="_blank"><img src="https://skillicons.dev/icons?i=linktree" /></a>
+</p>
+
+
 
 ---
 
