@@ -97,35 +97,13 @@
   <a href="https://gitlab.com/" target="_blank"><img src="https://skillicons.dev/icons?i=gitlab" /></a>
   <a href="https://stackoverflow.com/users/your-id" target="_blank"><img src="https://skillicons.dev/icons?i=stackoverflow" /></a>
   <a href="https://linkedin.com/in/mardochee-kanushipi" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="https://x.com/mardochee_X" target="_blank"><img src="https://skillicons.dev/icons?i=x" /></a>
   <a href="https://dev.to/mardochee" target="_blank"><img src="https://skillicons.dev/icons?i=devto" /></a>
   <a href="https://medium.com/@mardochee" target="_blank"><img src="https://skillicons.dev/icons?i=medium" /></a>
-  <a href="https://www.facebook.com/share/1DotfQD1fp/" target="_blank"><img src="https://skillicons.dev/icons?i=facebook" /></a>
   <a href="https://instagram.com/mardochee_kanushipi" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" /></a>
-  <a href="https://youtube.com/@mardochee_kanushipi" target="_blank"><img src="https://skillicons.dev/icons?i=youtube" /></a>
-  <a href="https://tiktok.com/@mardochee_kanushipi" target="_blank"><img src="https://skillicons.dev/icons?i=tiktok" /></a>
-  <a href="https://t.me/mardochee_kanushipi" target="_blank"><img src="https://skillicons.dev/icons?i=telegram" /></a>
-  <a href="https://wa.me/243893630482" target="_blank"><img src="https://skillicons.dev/icons?i=whatsapp" /></a>
-  <a href="https://www.threads.net/@mardochee_kanushipi" target="_blank"><img src="https://skillicons.dev/icons?i=threads" /></a>
-  <a href="https://pin.it/5AXX1zpcg" target="_blank"><img src="https://skillicons.dev/icons?i=pinterest" /></a>
-  <a href="https://www.snapchat.com/add/snap_mardochee" target="_blank"><img src="https://skillicons.dev/icons?i=snapchat" /></a>
-  <a href="https://linktr.ee/mardocheekanushipi" target="_blank"><img src="https://skillicons.dev/icons?i=linktree" /></a>
+
+ 
 </p>
 
-
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@mardochee_kanushipi)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/1DotfQD1fp/)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mardochee_kanushipi)
-[![Threads](https://img.shields.io/badge/Threads-000000.svg?style=for-the-badge&logo=threads&logoColor=white)](https://www.threads.net/@mardochee_kanushipi)
-[![X](https://img.shields.io/badge/X-%2318171A.svg?style=for-the-badge&logo=x&logoColor=white)](https://x.com/mardochee_X)
-[![TikTok](https://img.shields.io/badge/TikTok-010101.svg?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@mardochee_kanushipi)
-[![Snapchat](https://img.shields.io/badge/Snapchat-FFFC00.svg?style=for-the-badge&logo=snapchat&logoColor=black)](https://www.snapchat.com/add/snap_mardochee)
-[![Pinterest](https://img.shields.io/badge/Pinterest-BD081C.svg?style=for-the-badge&logo=pinterest&logoColor=white)](https://pin.it/5AXX1zpcg)
-[![Linktree](https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/mardocheekanushipi)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mardoch%C3%A9e-kanushipi-54a9b6235)
-[![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mardochee-Kanushipi)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0.svg?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/mardochee_kanushipi)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366.svg?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/243893630482)
 
 
 
