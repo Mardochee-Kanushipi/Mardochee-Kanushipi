@@ -141,6 +141,11 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mardochee-Kanushipi&theme=github_dark" />
 </p>
 
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mardochee-Kanushipi&theme=github_dark" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mardochee-Kanushipi&theme=github_dark" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mardochee-Kanushipi&theme=github_dark&utcOffset=+1" />
+
+
 
 
 ---
