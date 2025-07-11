@@ -82,7 +82,7 @@
 
 ### 🧰 Éditeurs & Outils de Dev-
 <p>
-  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,pycharm,webstorm,androidstudio,eclipse,netbeans,sublime,postman,insomnia,replit,notion,codepen,stackblitz,jupyter" />
+  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,pycharm,webstorm,androidstudio,eclipse,sublime,postman,replit,notion,codepen,stackblitz,jupyter" />
 </p>
 
 
