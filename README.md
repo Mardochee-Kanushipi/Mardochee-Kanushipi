@@ -10,14 +10,14 @@
 
 ### 👨🏽‍💻 À propos de moi 
 
-  🎓 Auto-formé & passionné par la tech  
-  🌍 Curieux, ouvert sur le monde numérique et la créativité
-  🚀 Je partage ici mes projets, idées, et outils préférés pour apprendre ensemble
+  - 🎓 Auto-formé & passionné par la tech  
+  - 🌍 Curieux, ouvert sur le monde numérique et la créativité
+  - 🚀 Je partage ici mes projets, idées, et outils préférés pour apprendre ensemble
 
-- 🔭 Je travaille sur plusieurs projets liés au développement web, à l’IA et à la sécurité informatique.  
-- 🎨 J’aime allier design & code pour créer des expériences numériques élégantes.  
-- 🎓 Étudiant en informatique passionné par l’innovation et l’open source.  
-- 📫 Contactez-moi : **mardocheekanushipi@gmail.com**
+  - 🔭 Je travaille sur plusieurs projets liés au développement web, à l’IA et à la sécurité informatique.  
+  - 🎨 J’aime allier design & code pour créer des expériences numériques élégantes.  
+  - 🎓 Étudiant en informatique passionné par l’innovation et l’open source.  
+  - 📫 Contactez-moi : **mardocheekanushipi@gmail.com**
 
 
 ---
