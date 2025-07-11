@@ -9,9 +9,9 @@
 
 ### 👨🏽‍💻 À propos de moi 
 
--🎓 Auto-formé & passionné par la tech  
--🌍 Curieux, ouvert sur le monde numérique et la créativité  
--🚀 Je partage ici mes projets, idées, et outils préférés pour apprendre ensemble
+  -🎓 Auto-formé & passionné par la tech  
+  -🌍 Curieux, ouvert sur le monde numérique et la créativité  
+  -🚀 Je partage ici mes projets, idées, et outils préférés pour apprendre ensemble
 
 - 🔭 Je travaille sur plusieurs projets liés au développement web, à l’IA et à la sécurité informatique.  
 - 🎨 J’aime allier design & code pour créer des expériences numériques élégantes.  
@@ -134,14 +134,6 @@
   
   <!-- Langages les plus utilisés -->
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mardochee-Kanushipi&layout=compact&theme=radical&hide_border=true" alt="Langages utilisés" />
-
----
-
-### 🔥 Activité continue (GitHub Streak Stats)
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Mardochee-Kanushipi&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak de Mardochée Kanushipi" />
-</p>
 
 
 ---
