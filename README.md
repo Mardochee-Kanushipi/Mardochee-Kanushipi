@@ -74,7 +74,7 @@
 
 ### 🎨 Design & Création visuelle
 <p>
-  <img src="https://skillicons.dev/icons?i=figma,xd,photoshop,illustrator,aftereffects,premiere,canva,blender" />
+  <img src="https://skillicons.dev/icons?i=figma,xd,photoshop,illustrator,aftereffects,premiere,blender" />
 </p>
 
 
