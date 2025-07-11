@@ -91,7 +91,7 @@
 
 ### 🌐 Plateformes & Communauté
 <p>
-  <img src="https://skillicons.dev/icons?i=github,gitlab,gitea,git,stackoverflow,linkedin,reddit,devto,discord,instagram" />
+  <img src="https://skillicons.dev/icons?i=github,gitlab,bitbucket,gitea,git,stackoverflow,linkedin,reddit,devto,discord,instagram" />
 </p>
 
 
