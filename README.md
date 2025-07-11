@@ -137,6 +137,11 @@
   <!-- Langages les plus utilisés -->
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mardochee-Kanushipi&layout=compact&theme=radical&hide_border=true" alt="Langages utilisés" />
 
+  <p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mardochee-Kanushipi&theme=github_dark" />
+</p>
+
+
 
 ---
   
