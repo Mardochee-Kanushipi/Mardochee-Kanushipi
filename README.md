@@ -67,7 +67,7 @@
 
 ### ☁️ DevOps & Cloud
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,vercel,aws,azure,nginx,cloudflare" />
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,vercel,aws,azure,googlecloud,heroku,nginx,cloudflare,terraform" />
 </p>
 
 ---
@@ -79,7 +79,7 @@
 
 ---
 
-### 🧰 Éditeurs & Outils de Dev
+### 🧰 Éditeurs & Outils de Dev-
 <p>
   <img src="https://skillicons.dev/icons?i=vscode,visualstudio,pycharm,postman,replit,notion" />
 </p>
