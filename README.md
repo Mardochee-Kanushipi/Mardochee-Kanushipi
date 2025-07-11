@@ -67,7 +67,7 @@
 
 ### ☁️ DevOps & Cloud
 <p>
-  <img src="https://skillicons.dev/icons?i=dkubernetes,vercel,aws,azure,googlecloud,heroku,nginx,cloudflare,terraform" />
+  <img src="https://skillicons.dev/icons?i=vercel,aws,azure,googlecloud,heroku,nginx,cloudflare,terraform" />
 </p>
 
 ---
