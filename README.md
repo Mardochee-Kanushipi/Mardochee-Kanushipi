@@ -49,9 +49,8 @@
 ---
 
 ### 🧠 Intelligence Artificielle & Data Science
-
 <p>
-  <img src="https://skillicons.dev/icons?i=matlab,pytorch,tensorflow,keras,opencv,scikit-learn" />
+  <img src="https://skillicons.dev/icons?i=python,r,matlab,pytorch,tensorflow,keras,opencv,numpy,pandas,scikit-learn,jupyter" />
 </p>
 
 
@@ -106,13 +105,14 @@
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mardochee-Kanushipi&layout=compact&theme=radical&hide_border=true" />
 </p>
 
+
+---
+
 ### 🔥 Activité continue (GitHub Streak Stats)
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=Mardochee-Kanushipi&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak de Mardochée Kanushipi" />
 </p>
-
-
 
 
 ---
