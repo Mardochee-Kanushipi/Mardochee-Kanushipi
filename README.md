@@ -54,8 +54,6 @@
 </p>
 
 
-
-
 ---
 
 ### 🔐 Cybersécurité & CLI
@@ -65,10 +63,12 @@
 
 ---
 
+
 ### ☁️ DevOps & Cloud
 <p>
   <img src="https://skillicons.dev/icons?i=vercel,aws,azure,googlecloud,heroku,nginx,cloudflare,terraform" />
 </p>
+
 
 ---
 
@@ -91,19 +91,30 @@
 
 ### 🌐 Plateformes & Communauté
 
-
 <p align="center">
   <a href="https://github.com/Mardochee-Kanushipi" target="_blank"><img src="https://skillicons.dev/icons?i=github" /></a>
   <a href="https://gitlab.com/" target="_blank"><img src="https://skillicons.dev/icons?i=gitlab" /></a>
   <a href="https://stackoverflow.com/users/your-id" target="_blank"><img src="https://skillicons.dev/icons?i=stackoverflow" /></a>
   <a href="https://linkedin.com/in/mardochee-kanushipi" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
   <a href="https://dev.to/mardochee" target="_blank"><img src="https://skillicons.dev/icons?i=devto" /></a>
-  <a href="https://medium.com/@mardochee" target="_blank"><img src="https://skillicons.dev/icons?i=medium" /></a>
   <a href="https://instagram.com/mardochee_kanushipi" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" /></a>
-
- 
 </p>
 
+
+### 🌐 Retrouve-moi aussi sur :
+
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@mardochee_kanushipi)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/1BnUmcyxck/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mardochee_kanushipi?igsh=MWxxMm9rdHkwZ2JrYQ==)
+[![Threads](https://img.shields.io/badge/Threads-000000.svg?&style=for-the-badge&logo=threads&logoColor=white)](https://www.threads.net/@mardochee_kanushipi)
+[![X](https://img.shields.io/badge/X-%2318171A.svg?&style=for-the-badge&logo=x&logoColor=white)](https://x.com/mardochee_X)
+[![TikTok](https://img.shields.io/badge/TikTok-010101.svg?&style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@mardochee_kanushipi)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/243893630482)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/mardochee_kanushipi)
+[![Snapchat](https://img.shields.io/badge/Snapchat-FFFC00.svg?&style=for-the-badge&logo=snapchat&logoColor=black)](https://www.snapchat.com/add/snap_mardochee?share_id=92DAK7uCn6U&locale=fr-FR)
+[![Pinterest](https://img.shields.io/badge/Pinterest-BD081C.svg?&style=for-the-badge&logo=pinterest&logoColor=white)](https://pin.it/5AXX1zpcg)
+[![Linktree](https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/mardocheekanushipi)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mardoch%C3%A9e-kanushipi-54a9b6235?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 
 
@@ -122,6 +133,8 @@
 </p>
 
 
+
+
 ---
 
 ### 🔥 Activité continue (GitHub Streak Stats)
@@ -129,7 +142,9 @@
 
 
 
+
 ---
+
 
 ### 🏆 Mes trophées GitHub
 
@@ -139,22 +154,6 @@
 
 
 ---
-
-
-### 🌐 Retrouve-moi aussi sur :
-
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@mardochee_kanushipi)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/1BnUmcyxck/)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mardochee_kanushipi?igsh=MWxxMm9rdHkwZ2JrYQ==)
-[![Threads](https://img.shields.io/badge/Threads-000000.svg?&style=for-the-badge&logo=threads&logoColor=white)](https://www.threads.net/@mardochee_kanushipi)
-[![X](https://img.shields.io/badge/X-%2318171A.svg?&style=for-the-badge&logo=x&logoColor=white)](https://x.com/mardochee_X)
-[![TikTok](https://img.shields.io/badge/TikTok-010101.svg?&style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@mardochee_kanushipi)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/243893630482)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/mardochee_kanushipi)
-[![Snapchat](https://img.shields.io/badge/Snapchat-FFFC00.svg?&style=for-the-badge&logo=snapchat&logoColor=black)](https://www.snapchat.com/add/snap_mardochee?share_id=92DAK7uCn6U&locale=fr-FR)
-[![Pinterest](https://img.shields.io/badge/Pinterest-BD081C.svg?&style=for-the-badge&logo=pinterest&logoColor=white)](https://pin.it/5AXX1zpcg)
-[![Linktree](https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/mardocheekanushipi)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mardoch%C3%A9e-kanushipi-54a9b6235?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 
 
