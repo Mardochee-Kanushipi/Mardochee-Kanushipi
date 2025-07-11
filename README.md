@@ -60,14 +60,14 @@
 
 ### 🔐 Cybersécurité & CLI
 <p>
-  <img src="https://skillicons.dev/icons?i=linux,ubuntu,bash,powershell,ansible,docker,kubernetes,cloudflare,openssl" />
+  <img src="https://skillicons.dev/icons?i=linux,ubuntu,bash,powershell,ansible,docker,kubernetes,openssl" />
 </p>
 
 ---
 
 ### ☁️ DevOps & Cloud
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,vercel,aws,azure,googlecloud,heroku,nginx,cloudflare,terraform" />
+  <img src="https://skillicons.dev/icons?i=dkubernetes,vercel,aws,azure,googlecloud,heroku,nginx,cloudflare,terraform" />
 </p>
 
 ---
