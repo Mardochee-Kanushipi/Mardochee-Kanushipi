@@ -118,7 +118,6 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mardochee-Kanushipi)
 
 
-
 ---
 
 
@@ -128,40 +127,30 @@
   
   <!-- Statistiques générales -->
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Mardochee-Kanushipi&show_icons=true&theme=radical&hide_border=true" alt="Stats générales GitHub" />
-
   <!-- Langages les plus utilisés -->
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mardochee-Kanushipi&layout=compact&theme=radical&hide_border=true" alt="Langages utilisés" />
-
-  <!-- Streak : activité continue -->
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Mardochee-Kanushipi&theme=radical&hide_border=true" alt="GitHub Streak (Activité continue)" />
-
   <!-- Trophées -->
   <img width="100%" src="https://github-profile-trophy.vercel.app/?username=Mardochee-Kanushipi&theme=radical&margin-w=15&margin-h=15&row=2&column=4" alt="Trophées GitHub" />
 
 </p>
 
-
 <p align="center">
-
-  <!-- Version principale (radical) -->
-  <img src="https://streak-stats.demolab.com/?user=Mardochee-Kanushipi&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak de Mardochée Kanushipi" />
-
-  <!-- Variante claire (si jamais tu veux la proposer aussi) -->
-  <img src="https://streak-stats.demolab.com/?user=Mardochee-Kanushipi&theme=default&hide_border=true&date_format=M%20j%2C%20Y" alt="Streak Stats Thème clair" />
-
-  <!-- Variante avec effet "fire" 🔥 -->
-  <img src="https://streak-stats.demolab.com?user=Mardochee-Kanushipi&theme=react&fire=FF4500&ring=FFD700&currStreakLabel=FFD700&hide_border=true" alt="Streak React Fire" />
-
-  <!-- Variante "night" en full dark -->
-  <img src="https://streak-stats.demolab.com?user=Mardochee-Kanushipi&theme=dark&hide_border=true&background=000000" alt="Streak full dark" />
-
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=Mardochee-Kanushipi
+    &theme=darkhub
+    &margin-w=15
+    &margin-h=15
+    &no-bg=true
+    &no-frame=true
+    &rank=SSS,SS,S,AAA,AA,A,B
+    &column=6
+    " 
+    alt="Trophées GitHub de Mardochée Kanushipi"
+/>
 </p>
 
 
 ---
-
-
-
 
 
    ✨ *Merci d’avoir visité mon profil GitHub. N’hésite pas à me suivre ou à collaborer !*
