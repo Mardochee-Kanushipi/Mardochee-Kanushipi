@@ -141,7 +141,26 @@
 </p>
 
 
+<p align="center">
+
+  <!-- Version principale (radical) -->
+  <img src="https://streak-stats.demolab.com/?user=Mardochee-Kanushipi&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak de Mardochée Kanushipi" />
+
+  <!-- Variante claire (si jamais tu veux la proposer aussi) -->
+  <img src="https://streak-stats.demolab.com/?user=Mardochee-Kanushipi&theme=default&hide_border=true&date_format=M%20j%2C%20Y" alt="Streak Stats Thème clair" />
+
+  <!-- Variante avec effet "fire" 🔥 -->
+  <img src="https://streak-stats.demolab.com?user=Mardochee-Kanushipi&theme=react&fire=FF4500&ring=FFD700&currStreakLabel=FFD700&hide_border=true" alt="Streak React Fire" />
+
+  <!-- Variante "night" en full dark -->
+  <img src="https://streak-stats.demolab.com?user=Mardochee-Kanushipi&theme=dark&hide_border=true&background=000000" alt="Streak full dark" />
+
+</p>
+
+
 ---
+
+
 
 
 
