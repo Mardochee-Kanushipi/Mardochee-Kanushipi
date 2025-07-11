@@ -1,4 +1,4 @@
-<h1 align="center">👋 Salut, je suis Mardochée Kanushipi</h1>
+<h1 align="center">👋 Salut, je suis Mardochée </h1>
 
 <p align="center">
 🎓 Étudiant en informatique à l’UPC <br>
