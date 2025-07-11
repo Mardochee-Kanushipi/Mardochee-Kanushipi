@@ -36,7 +36,7 @@
 
 ### 📱 Développement mobile
 <p>
-  <img src="https://skillicons.dev/icons?i=flutter,dart,unity,kotlin,swift" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,unity" />
 </p>
 
 ---
