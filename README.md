@@ -60,7 +60,7 @@
 
 ### 🔐 Cybersécurité & CLI
 <p>
-  <img src="https://skillicons.dev/icons?i=bash,powershell,linux,ubuntu,ansible,tryhackme,cloudflare,docker,kubernetes,zellij,htop,openssl,wireshark,metasploit,nmap,hashicorp,terraform,vault,selinux" />
+  <img src="https://skillicons.dev/icons?i=bash,powershell,linux,ubuntu,ansible,docker,kubernetes,cloudflare,openssl" />
 </p>
 
 ---
@@ -105,14 +105,15 @@
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mardochee-Kanushipi&layout=compact&theme=radical&hide_border=true" />
 </p>
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Mardochee-Kanushipi&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak de Mardochée Kanushipi" />
+</p>
 
 ---
 
 ### 🔥 Activité continue (GitHub Streak Stats)
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Mardochee-Kanushipi&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak de Mardochée Kanushipi" />
-</p>
+
 
 
 ---
