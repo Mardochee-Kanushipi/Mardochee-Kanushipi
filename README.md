@@ -115,6 +115,7 @@
 [![Pinterest](https://img.shields.io/badge/Pinterest-BD081C.svg?&style=for-the-badge&logo=pinterest&logoColor=white)](https://pin.it/5AXX1zpcg)
 [![Linktree](https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/mardocheekanushipi)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mardoch%C3%A9e-kanushipi-54a9b6235?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+[![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mardochee-Kanushipi)
 
 
 
@@ -124,32 +125,19 @@
 ### 📊 Mes statistiques GitHub
 
 <p align="center">
-  <!-- Stats classiques -->
- <img src="https://github-readme-stats.vercel.app/api?username=Mardochee-Kanushipi&show_icons=true&theme=radical" alt="GitHub stats" />
-
+  
+  <!-- Statistiques générales -->
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Mardochee-Kanushipi&show_icons=true&theme=radical&hide_border=true" alt="Stats générales GitHub" />
 
   <!-- Langages les plus utilisés -->
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mardochee-Kanushipi&layout=compact&theme=radical&hide_border=true" />
-</p>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mardochee-Kanushipi&layout=compact&theme=radical&hide_border=true" alt="Langages utilisés" />
 
+  <!-- Streak : activité continue -->
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Mardochee-Kanushipi&theme=radical&hide_border=true" alt="GitHub Streak (Activité continue)" />
 
+  <!-- Trophées -->
+  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=Mardochee-Kanushipi&theme=radical&margin-w=15&margin-h=15&row=2&column=4" alt="Trophées GitHub" />
 
-
----
-
-### 🔥 Activité continue (GitHub Streak Stats)
-
-
-
-
-
----
-
-
-### 🏆 Mes trophées GitHub
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Mardochee-Kanushipi&theme=darkhub&margin-w=15&no-frame=true&no-bg=true" />
 </p>
 
 
