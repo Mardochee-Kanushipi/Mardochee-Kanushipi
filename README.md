@@ -134,22 +134,6 @@
 
 </p>
 
-<p align="center">
-  <img 
-    src="https://github-profile-trophy.vercel.app/?username=Mardochee-Kanushipi
-    &theme=darkhub
-    &margin-w=15
-    &margin-h=15
-    &no-bg=true
-    &no-frame=true
-    &rank=SSS,SS,S,AAA,AA,A,B
-    &column=6
-    " 
-    alt="Trophées GitHub de Mardochée Kanushipi"
-/>
-</p>
-
-
 ---
 
 
