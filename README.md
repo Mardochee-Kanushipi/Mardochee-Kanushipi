@@ -104,12 +104,11 @@
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mardochee-Kanushipi&layout=compact&theme=radical&hide_border=true" />
 </p>
 
-
----
-
 ### 🔥 Activité continue (GitHub Streak Stats)
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Mardochee-Kanushipi&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D" />
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Mardochee-Kanushipi&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak de Mardochée Kanushipi" />
+</p>
 
 
 
