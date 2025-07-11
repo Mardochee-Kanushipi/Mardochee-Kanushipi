@@ -110,8 +110,11 @@
 ### 🔥 Activité continue (GitHub Streak Stats)
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Mardochee-Kanushipi&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak de Mardochée Kanushipi" />
+  <img src="https://streak-stats.demolab.com/?user=Mardochee-Kanushipi&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D" 
+       alt="Statistiques GitHub Streak de Mardochée (peut être temporairement indisponible)" 
+       onerror="this.style.display='none'" />
 </p>
+
 
 
 ---
