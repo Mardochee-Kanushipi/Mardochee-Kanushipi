@@ -99,7 +99,7 @@
 
 <p align="center">
   <a href="https://github.com/Mardochee-Kanushipi" target="_blank"><img src="https://skillicons.dev/icons?i=github" /></a>
-  <a href="https://gitlab.com/" target="_blank"><img src="https://skillicons.dev/icons?i=gitlab" /></a>
+  <a href="https://gitlab.com/Mardochee-Kanushipi" target="_blank"><img src="https://skillicons.dev/icons?i=gitlab" /></a>
   <a href="https://stackoverflow.com/users/your-id" target="_blank"><img src="https://skillicons.dev/icons?i=stackoverflow" /></a>
   <a href="https://www.linkedin.com/in/mardoch%C3%A9e-kanushipi-54a9b6235?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
   <a href="https://dev.to/mardocheekanushipi" target="_blank"><img src="https://skillicons.dev/icons?i=devto" /></a>
