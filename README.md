@@ -142,17 +142,15 @@
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mardochee-Kanushipi&theme=github_dark" /> <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mardochee-Kanushipi&theme=github_dark&utcOffset=+1" />
 
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Mardochee-Kanushipi&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak de Mardochée Kanushipi" />
-</p>
+
 
 
 
 ---
   
 ### 🏆 Mes trophées GitHub  
-  <p align="center">
-  <img src= https://github-readme-streak-stats.herokuapp.com?user=Mardochee-Kanushipi/>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Mardochee-Kanushipi&theme=darkhub&margin-w=15&no-frame=true&no-bg=true" />
 </p>
 
 ---
