@@ -152,7 +152,7 @@
   
 ### 🏆 Mes trophées GitHub  
   <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Mardochee-Kanushipi&theme=darkhub&margin-w=15&no-frame=true&no-bg=true" />
+  <img src= https://github-readme-streak-stats.herokuapp.com?user=Mardochee-Kanushipi/>
 </p>
 
 ---
