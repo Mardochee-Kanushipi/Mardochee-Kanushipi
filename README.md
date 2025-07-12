@@ -15,8 +15,7 @@
   - 🚀 Je partage ici mes projets, idées, et outils préférés pour apprendre ensemble
 
   - 🔭 Je travaille sur plusieurs projets liés au développement web, à l’IA et à la sécurité informatique.  
-  - 🎨 J’aime allier design & code pour créer des expériences numériques élégantes.  
-  - 🎓 Étudiant en informatique passionné par l’innovation et l’open source.  
+  - 🎨 J’aime allier design & code pour créer des expériences numériques élégantes.   
   - 📫 Contactez-moi : **mardocheekanushipi@gmail.com**
 
 
