@@ -142,6 +142,9 @@
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mardochee-Kanushipi&theme=github_dark" /> <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mardochee-Kanushipi&theme=github_dark&utcOffset=+1" />
 
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Mardochee-Kanushipi&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak de Mardochée Kanushipi" />
+</p>
 
 
 
