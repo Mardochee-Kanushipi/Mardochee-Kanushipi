@@ -120,9 +120,9 @@
 [![Linktree](https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/mardocheekanushipi)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mardoch%C3%A9e-kanushipi-54a9b6235?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 [![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mardochee-Kanushipi)
-[![Discord](https://img.shields.io/badge/Discord-5865F2.svg?&style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/TON_ID_UTILISATEUR)  
-[![Reddit](https://img.shields.io/badge/Reddit-FF4500.svg?&style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/TON_NOM_UTILISATEUR)
-[![Twitch](https://img.shields.io/badge/Twitch-9146FF.svg?&style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/TON_NOM_UTILISATEUR)
+[![Discord](https://www.youtube.com/redirect?event=channel_description&redir_token=QUFFLUhqbG0wVE1iTlJfcmp0NWMySzY2eWR2UDdRQXRwZ3xBQ3Jtc0ttWDVpQW8wcXpoajFCU2QxYkdZbEoya3pUSENFWTBPM0M0Q2FIOVZZaGlUUFBXeEUycWtvdC1pZVgxalRSLXFkRm1BRUp0ZTh2M0sxUGJkZU93SXZwTGUyMGVja3gwX0EwR2RuZ3Ezb1NrOUE2RWdzaw&q=https%3A%2F%2Fdiscord.gg%2FRJAMEdCq.svg?&style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/TON_ID_UTILISATEUR)  
+[![Reddit](https://www.reddit.com/user/Usual_Investment_772/.svg?&style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/TON_NOM_UTILISATEUR)
+[![Twitch](https://www.twitch.tv/mardochee_kanushipi.svg?&style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/TON_NOM_UTILISATEUR)
 
 ---
 
